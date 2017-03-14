@@ -1,0 +1,4 @@
+创建新的镜像
+docker_builder 文件目录
+docker_builder 文件目录下放置 Dockerfile文件
+docker build -t centos:base ./docker_builder/
